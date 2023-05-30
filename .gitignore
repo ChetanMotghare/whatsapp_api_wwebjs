@@ -1,0 +1,9 @@
+.vscode
+.wwebjs_auth
+.wwebjs_cache
+node_modules
+nodejs
+remoteAuth
+index.html
+msgTest.html
+msgTest.js
